@@ -1,8 +1,11 @@
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 
 # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
 
 theme: minima
 title: W.P. Carey Residency GitHub
 description: TBD
+
+header_pages:
+  - about.md
